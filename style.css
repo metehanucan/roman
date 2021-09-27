@@ -90,3 +90,31 @@ input{
     padding-left: 3%;
     margin-top: 5%;
 }
+
+@media(max-width:1000px){
+
+    #numberInput{
+        margin-bottom: 9%;
+    }
+    h1{
+        font-size: 3em;
+        margin-bottom: 5%;
+    }
+    #statue{
+        display: none;
+    }
+    .b4h2{
+        font-size: 3.5em;
+    }
+}
+
+@media(max-width:570px){
+    #numberInput{
+        font-size: x-large;
+        margin-bottom: 9%;
+    }
+    #glass{
+        padding-bottom: 12%;
+    }
+
+
